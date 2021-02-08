@@ -1,0 +1,10 @@
+Lombard
+Program umożliwia prowadzenia spisu przedmiotów oddanych do lombardu oraz spisu klientów (oddających w zastaw lub
+kupujących). Informacje o klientach to imię, nazwisko, lista przedmiotów, które zastawił/kupił (bez ograniczenia liczby) oraz
+kwota jaką wydał w lombardzie. Informacje o przedmiotach to unikalny numer, nazwa, stan, kwota, na jaką został zastawiony,
+jego cenie w razie niespłacenia długu oraz dacie zastawienia. Program pozwala na dodawanie, edycję oraz usuwanie
+przedmiotów z listy ( nie można usunąc przedmiotu, jeśli istnieje klient, który go kupił) oraz na wyświetlanie przedmiotów o
+określonym statusie, z zadanego przedziału cenowego oraz dacie wystawienia. Przedmioty można przeglądać posortowane wg
+nazwy lub daty wystawienia. Istnieje możliwość dodawania, edycji oraz usuwania klientów i wyświetlania ich danych na 
+podstawie nazwiska (całości lub początku) oraz kwoty zakupów. Klientów można przeglądać posortowanych wg nazwiska lub
+wg kwoty zakupów.
